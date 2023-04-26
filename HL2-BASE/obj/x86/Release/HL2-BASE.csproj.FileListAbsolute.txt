@@ -1,0 +1,15 @@
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\HL2-BASE.exe.config
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\HL2-BASE.exe
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\HL2-BASE.pdb
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\MaterialSkin.dll
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\Memory.dll
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\x86\Release\Memory.xml
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.csproj.AssemblyReference.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2_BASE.Form1.resources
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2_BASE.Properties.Resources.resources
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.csproj.GenerateResource.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.csproj.CoreCompileInputs.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.csproj.CopyComplete
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.exe
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\x86\Release\HL2-BASE.pdb

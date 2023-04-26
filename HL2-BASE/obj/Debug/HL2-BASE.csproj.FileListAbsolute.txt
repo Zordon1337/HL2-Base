@@ -1,0 +1,13 @@
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\Debug\HL2-BASE.exe.config
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\Debug\HL2-BASE.exe
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\Debug\HL2-BASE.pdb
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\bin\Debug\MaterialSkin.dll
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.csproj.AssemblyReference.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2_BASE.Form1.resources
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2_BASE.Properties.Resources.resources
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.csproj.GenerateResource.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.csproj.CoreCompileInputs.cache
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.csproj.CopyComplete
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.exe
+C:\Users\ZRD\source\repos\HL2-BASE\HL2-BASE\obj\Debug\HL2-BASE.pdb
